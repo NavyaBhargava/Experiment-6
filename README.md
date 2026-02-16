@@ -1,4 +1,4 @@
-Theory
+THEORY
 
 ** Positive, Negative, or Zero Check Theory: **
 
