@@ -1,7 +1,7 @@
 # Experiment 6 
 # THEORY
 
-**Positive, Negative, or Zero Check Theory:**
+**1) Positive, Negative, or Zero Check Theory:**
 
 A number can be:
 
@@ -29,7 +29,7 @@ Stop
 
 ---
 
- **Even or Odd Number Theory:**
+ **2) Even or Odd Number Theory:**
 
 A number is:
 
@@ -53,7 +53,7 @@ Stop
 
 ---
 
- **Greatest of Three Numbers Theory:**
+ **3) Greatest of Three Numbers Theory:**
 
 To determine the largest number among three values, comparisons are made using logical AND (and) operator.
 
@@ -73,7 +73,7 @@ Stop
 
 ---
 
-**Student Grade Calculation Theory:**
+**4) Student Grade Calculation Theory:**
 
 The average score of three subjects is calculated. Based on the average, grades are assigned:
 
@@ -107,7 +107,7 @@ Stop
 
 ---
 
-**Leap Year Check Theory:**
+**5) Leap Year Check Theory:**
 
 A year is a leap year if:
 
@@ -131,7 +131,7 @@ Stop
 
 ---
 
-**Vowel or Consonant Check Theory:**
+**6) Vowel or Consonant Check Theory:**
 
 A character is a vowel if it belongs to: a, e, i, o, u (both uppercase and lowercase). Otherwise, it is a consonant.
 
@@ -149,7 +149,7 @@ Stop
 
 ---
 
-**Salary Calculation (HRA & DA) Theory:**
+**7) Salary Calculation (HRA & DA) Theory:**
 
 Gross Salary = Basic Salary + HRA + DA
 
@@ -181,7 +181,7 @@ Stop
 
 ---
 
-**Income Tax Calculation Theory:**
+**8) Income Tax Calculation Theory:**
 
 Tax rate depends on annual income:
 
@@ -213,7 +213,7 @@ Stop
 
 ---
 
-**Date Validation and Increment Theory:**
+**9) Date Validation and Increment Theory:**
 
 The number of days in a month varies:
 
@@ -245,8 +245,8 @@ Else if day = 31 and month = December → Set day = 1, month = 1, increment year
 
 Else → Increment day
 
----
-
 Display incremented date
 
 Stop
+
+---
