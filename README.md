@@ -1,6 +1,7 @@
-THEORY
+# Experiment 6 
+# THEORY
 
-** Positive, Negative, or Zero Check Theory: **
+**Positive, Negative, or Zero Check Theory:**
 
 A number can be:
 
@@ -12,7 +13,7 @@ Zero → Equal to 0
 
 Conditional statements compare the number with zero and decide its category.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -26,7 +27,9 @@ Else → Print "Zero"
 
 Stop
 
-2️⃣ Even or Odd Number Theory:
+---
+
+ **Even or Odd Number Theory:**
 
 A number is:
 
@@ -36,7 +39,7 @@ Odd if not divisible by 2
 
 The modulus operator (%) is used to check the remainder.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -48,11 +51,13 @@ Else → Print "Odd"
 
 Stop
 
-3️⃣ Greatest of Three Numbers Theory:
+---
+
+ **Greatest of Three Numbers Theory:**
 
 To determine the largest number among three values, comparisons are made using logical AND (and) operator.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -66,7 +71,9 @@ Else → Print third number is greatest
 
 Stop
 
-4️⃣ Student Grade Calculation Theory:
+---
+
+**Student Grade Calculation Theory:**
 
 The average score of three subjects is calculated. Based on the average, grades are assigned:
 
@@ -78,7 +85,7 @@ The average score of three subjects is calculated. Based on the average, grades 
 
 Below 40 → Grade F
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -98,7 +105,9 @@ Display average and grade
 
 Stop
 
-5️⃣ Leap Year Check Theory:
+---
+
+**Leap Year Check Theory:**
 
 A year is a leap year if:
 
@@ -108,7 +117,7 @@ It is divisible by 4 but not divisible by 100
 
 Logical operators are used for this condition.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -120,11 +129,13 @@ Else → Print "Not a Leap Year"
 
 Stop
 
-6️⃣ Vowel or Consonant Check Theory:
+---
+
+**Vowel or Consonant Check Theory:**
 
 A character is a vowel if it belongs to: a, e, i, o, u (both uppercase and lowercase). Otherwise, it is a consonant.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -136,7 +147,9 @@ Else → Print "Consonant"
 
 Stop
 
-7️⃣ Salary Calculation (HRA & DA) Theory:
+---
+
+**Salary Calculation (HRA & DA) Theory:**
 
 Gross Salary = Basic Salary + HRA + DA
 
@@ -148,7 +161,7 @@ Basic ≤ 20000 → HRA = 25%, DA = 90%
 
 Above 20000 → HRA = 30%, DA = 95%
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -166,7 +179,9 @@ Display HRA, DA, and Gross Salary
 
 Stop
 
-8️⃣ Income Tax Calculation Theory:
+---
+
+**Income Tax Calculation Theory:**
 
 Tax rate depends on annual income:
 
@@ -178,7 +193,7 @@ Income ≤ 10,00,000 → 20%
 
 Above 10,00,000 → 30%
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -196,7 +211,9 @@ Display tax amount
 
 Stop
 
-9️⃣ Date Validation and Increment Theory:
+---
+
+**Date Validation and Increment Theory:**
 
 The number of days in a month varies:
 
@@ -208,7 +225,7 @@ February → 28 days (29 in leap year)
 
 The program checks whether a date is valid and calculates the next day.
 
-Algorithm:
+**Algorithm:**
 
 Start
 
@@ -227,6 +244,8 @@ Else if day equals maximum and month not December → Set day = 1 and increment 
 Else if day = 31 and month = December → Set day = 1, month = 1, increment year
 
 Else → Increment day
+
+---
 
 Display incremented date
 
